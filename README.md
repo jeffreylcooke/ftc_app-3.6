@@ -1,9 +1,11 @@
-## Wadsworth Elementary
+**************************************************************************************
+# Wadsworth Elementary
+**************************************************************************************
 This GitHub repository is a copy of the master Release 3.6 from the ftctechnh/ftc_app repository.
 
-We will only not changes we make from the 3.6 Release here. This is a learning experience for our team. The intent of making a
+We will document changes we make from the 3.6 Release here. This is a learning experience for our team and the intent of making a
 copy and import rather than something like a clone is for safety. We really don't want to have an possibility of affecting the
-original team's repository. And none of us are really that keen on git repositories yet!
+original team's repository (and none of us are really that keen on git/GitHub repositories yet)!
 
 **************************************************************************************
 # Release Information
